@@ -2,7 +2,7 @@
   "name": "vs-light-plus",
   "displayName": "vs-light-plus",
   "description": "vscode light plus theme with sysntax highting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
