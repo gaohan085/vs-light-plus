@@ -2,7 +2,7 @@
   "name": "vs-light-plus",
   "displayName": "vs-light-plus",
   "description": "vscode light plus theme with sysntax highting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -17,5 +17,8 @@
         "path": "./themes/vsc-light-plus-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/gaohan085/vs-light-plus"
   }
 }
