@@ -177,6 +177,14 @@
       }
     },
     {
+      "name": "js/ts punctuation accessor optional ts",
+      "scope": "punctuation.accessor.optional.ts",
+      "settings": {
+        "foreground": "#A626A4",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "js/ts import keyword",
       "scope": "keyword.operator.expression.import",
       "settings": {
@@ -357,7 +365,8 @@
         "keyword.operator.expression.keyof"
       ],
       "settings": {
-        "foreground": "#A626A4"
+        "foreground": "#A626A4",
+        "fontStyle": "italic"
       }
     },
     {
