@@ -1032,7 +1032,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#000000"
       }
     },
     {
