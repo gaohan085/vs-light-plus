@@ -166,6 +166,8 @@
     "editor.focusedStackFrameHighlightBackground": "#28a74525",
     "settings.headerForeground": "#586069",
     "settings.modifiedItemIndicator": "#f9c513",
+    "editorInlayHint.parameterBackground": "#28a74525",
+    "editorInlayHint.parameterForeground": "#00b7eb",
 
 		//status bar
 		// "statusBar.background": "#ff0000",
