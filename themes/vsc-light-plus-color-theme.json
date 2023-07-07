@@ -1,6 +1,6 @@
 {
-	"name": "vsc-light-plus",
-	"colors": {
+  "name": "vsc-light-plus",
+  "colors": {
     "focusBorder": "#0366d6",
     "foreground": "#24292e",
     "descriptionForeground": "#6a737d",
@@ -43,7 +43,7 @@
     "activityBarBadge.background": "#007ACC",
     "activityBar.activeBorder": "#f9826c",
     "activityBar.border": "#e1e4e8",
-		"activityBar.activeBackground": "#e0e3e5",
+    "activityBar.activeBackground": "#e0e3e5",
     "sideBar.foreground": "#24292e",
     "sideBar.background": "#f6f8fa",
     "sideBar.border": "#e1e4e8",
@@ -166,12 +166,13 @@
     "editor.focusedStackFrameHighlightBackground": "#28a74525",
     "settings.headerForeground": "#586069",
     "settings.modifiedItemIndicator": "#f9c513",
-    "editorInlayHint.parameterBackground": "#ededed",
-    "editorInlayHint.parameterForeground": "#50A14F",
-
-		//status bar
-		// "statusBar.background": "#ff0000",
-		"statusBarItem.remoteBackground": "#16825D",
+    "editorInlayHint.parameterBackground": "#e8eff7",
+    "editorInlayHint.parameterForeground": "#0071bf",
+    "editorInlayHint.typeForeground": "#0071bf",
+    "editorInlayHint.typeBackground": "#e8eff7",
+    //status bar
+    // "statusBar.background": "#ff0000",
+    "statusBarItem.remoteBackground": "#16825D",
   },
-	"include":"./vsc-light-tokencolors.json"
+  "include": "./vsc-light-tokencolors.json"
 }
