@@ -62,7 +62,7 @@
     "list.inactiveFocusBackground": "#dbedff",
     "list.highlightForeground": "#0366d6",
     "tree.indentGuidesStroke": "#a0a3a6",
-    "tree.inactiveIndentGuidesStroke": "#d1d5da",
+    "tree.inactiveIndentGuidesStroke": "#e1e4e8",
     "notificationCenterHeader.foreground": "#6a737d",
     "notificationCenterHeader.background": "#e1e4e8",
     "notifications.foreground": "#586069",
