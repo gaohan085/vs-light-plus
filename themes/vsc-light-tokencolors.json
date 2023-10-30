@@ -178,7 +178,7 @@
     },
     {
       "name": "js/ts punctuation accessor optional ts",
-      "scope": "punctuation.accessor.optional.ts",
+      "scope": "punctuation.accessor.optional.ts, punctuation.accessor.optional.tsx",
       "settings": {
         "foreground": "#A626A4",
         "fontStyle": "italic"
@@ -268,7 +268,7 @@
       "name": "operator logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#0184BC"
+        "foreground": "#A626A4"
       }
     },
     {
