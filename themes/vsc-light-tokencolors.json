@@ -2029,6 +2029,13 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "keyword.operator.definiteassignment",
+      "scope": "keyword.operator.definiteassignment",
+      "settings": {
+        "foreground": "#A626A4"
+      }
     }
   ]
 }
