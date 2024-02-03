@@ -178,7 +178,7 @@
     },
     {
       "name": "js/ts punctuation accessor optional ts",
-      "scope": "punctuation.accessor.optional.ts, punctuation.accessor.optional.tsx",
+      "scope": "punctuation.accessor.optional.ts, punctuation.accessor.optional.tsx, punctuation.accessor.optional.js, punctuation.accessor.optional.jsx",
       "settings": {
         "foreground": "#A626A4",
         "fontStyle": "italic"
